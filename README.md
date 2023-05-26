@@ -10,5 +10,8 @@ Notes used to understand AI
 
 ## Courses
 
+## Papers
+- [Gen-1](https://arxiv.org/abs/2302.03011)
+
 ### Ethics
 * Ethics of AI https://ethics-of-ai.mooc.fi/
