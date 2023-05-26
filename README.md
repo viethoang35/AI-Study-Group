@@ -9,6 +9,7 @@ Notes used to understand AI
 * Understanding Deep Learning https://udlbook.github.io/udlbook/
 
 ## Courses
+- [MIT Intro to Deep Learning](http://introtodeeplearning.com/)
 
 ## Papers
 - [Gen-1](https://arxiv.org/abs/2302.03011)
