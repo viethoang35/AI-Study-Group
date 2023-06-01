@@ -13,6 +13,7 @@ Notes used to understand AI
 
 ## Papers
 - [Gen-1](https://arxiv.org/abs/2302.03011)
+- [Uncovering and Mitigating Algorithmic Bias through Learned Latent Structure](http://introtodeeplearning.com/AAAI_MitigatingAlgorithmicBias.pdf)
 
 ### Ethics
 * Ethics of AI https://ethics-of-ai.mooc.fi/
