@@ -9,7 +9,7 @@ Notes used to understand AI
 * Understanding Deep Learning https://udlbook.github.io/udlbook/
 
 ## Courses
-- [MIT Intro to Deep Learning](http://introtodeeplearning.com/)
+- [MIT Intro to Deep Learning](http://introtodeeplearning.com/) FREE bootcamp by MIT researchers. It's ~10 hours of content covering the basic Deep Learning concepts.
 
 ## Papers
 - [Gen-1](https://arxiv.org/abs/2302.03011)
