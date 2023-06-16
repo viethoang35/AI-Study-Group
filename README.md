@@ -5,6 +5,9 @@ Notes used to understand AI
 ### Interviews
 - [John Carmack: Different path to AGI](https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/)
 
+### Tutorials
+- [C++ Neural Network in a Weekend](https://www.jeremyong.com/cpp/machine-learning/2020/10/23/cpp-neural-network-in-a-weekend/)
+
 ## Books
 * Understanding Deep Learning https://udlbook.github.io/udlbook/
 
