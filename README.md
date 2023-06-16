@@ -27,5 +27,8 @@ Commercial Gender Classification](https://proceedings.mlr.press/v81/buolamwini18
 - [ObjectNet](https://objectnet.dev/)
 - [LAION 5B](https://laion.ai/blog/laion-5b/)
 
+## Helpers
+- [Standard Notations for Deep Learning](https://cs230.stanford.edu/files/Notation.pdf)
+
 ## Ethics
 * Ethics of AI https://ethics-of-ai.mooc.fi/
