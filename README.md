@@ -16,6 +16,7 @@ Notes used to understand AI
 
 ## Papers
 - [Gen-1](https://arxiv.org/abs/2302.03011)
+- [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)
 - [Gender Shades: Intersectional Accuracy Disparities in
 Commercial Gender Classification](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
 - [Uncovering and Mitigating Algorithmic Bias through Learned Latent Structure](http://introtodeeplearning.com/AAAI_MitigatingAlgorithmicBias.pdf)
