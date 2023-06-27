@@ -25,6 +25,7 @@ Commercial Gender Classification](https://proceedings.mlr.press/v81/buolamwini18
 - [Uncovering and Mitigating Algorithmic Bias through Learned Latent Structure](http://introtodeeplearning.com/AAAI_MitigatingAlgorithmicBias.pdf)
 
 ## Datasets
+- [Kaggle Datasets](https://www.kaggle.com/datasets/)
 - [CelebA](https://paperswithcode.com/dataset/celeba)
 - [ImageNet](https://image-net.org/)
 - [Cityscapes Dataset](https://www.cityscapes-dataset.com/)
