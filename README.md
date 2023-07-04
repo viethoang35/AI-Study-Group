@@ -18,6 +18,7 @@ Notes used to understand AI
 - [MIT Intro to Deep Learning](http://introtodeeplearning.com/) FREE bootcamp by MIT researchers. It's ~10 hours of content covering the basic Deep Learning concepts.
 
 ## Papers
+- [GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images](https://nv-tlabs.github.io/GET3D/)
 - [Gen-1](https://arxiv.org/abs/2302.03011)
 - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)
 - [Gender Shades: Intersectional Accuracy Disparities in
