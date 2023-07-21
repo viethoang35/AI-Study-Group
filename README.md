@@ -22,6 +22,8 @@ Notes used to understand AI
 - [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/)
 - [GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images](https://nv-tlabs.github.io/GET3D/)
 - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)
+### 2D Image Generators
+- [Imagen: Text-to-Image Difussion Models](https://imagen.research.google/)
 ### Others
 - [Gen-1](https://arxiv.org/abs/2302.03011)
 - [Gender Shades: Intersectional Accuracy Disparities in
