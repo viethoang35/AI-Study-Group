@@ -11,11 +11,16 @@ Notes used to understand AI
 ### Tutorials
 - [C++ Neural Network in a Weekend](https://www.jeremyong.com/cpp/machine-learning/2020/10/23/cpp-neural-network-in-a-weekend/)
 
+### Articles
+- [explained.ai](https://explained.ai/)
+
 ## Books
-* Understanding Deep Learning https://udlbook.github.io/udlbook/
+- [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD](https://course.fast.ai/Resources/book.html)
+- [Understanding Deep Learning] (https://udlbook.github.io/udlbook/)
 
 ## Courses
 - [MIT Intro to Deep Learning](http://introtodeeplearning.com/) FREE bootcamp by MIT researchers. It's ~10 hours of content covering the basic Deep Learning concepts.
+- [Practical Deep Learning for Coders](https://course.fast.ai/)
 
 ## Papers
 ### 3D Model Generators
