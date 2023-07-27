@@ -16,7 +16,7 @@ Notes used to understand AI
 
 ## Books
 - [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD](https://course.fast.ai/Resources/book.html)
-- [Understanding Deep Learning] (https://udlbook.github.io/udlbook/)
+- [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 
 ## Courses
 - [MIT Intro to Deep Learning](http://introtodeeplearning.com/) FREE bootcamp by MIT researchers. It's ~10 hours of content covering the basic Deep Learning concepts.
