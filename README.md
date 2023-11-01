@@ -16,6 +16,7 @@ Notes used to understand AI
 - [explained.ai](https://explained.ai/)
 
 ## Books
+- [Deep Learning - A Visual Approach](https://www.glassner.com/portfolio/deep-learning-a-visual-approach/) Probably the best resource out there to get a solid intuition about the many concepts surrounding Deep Learning.
 - [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD](https://course.fast.ai/Resources/book.html)
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 
