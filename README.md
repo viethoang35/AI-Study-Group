@@ -2,9 +2,42 @@
 Notes used to understand AI
 
 ### Models
-- [GPT]
-- [Llama]
+| Date           | Model Name | Creator       | Type                     |
+|----------------|------------|---------------|--------------------------|
+| Dec. 6, 2023   | Gemini     | Google        | Large language model     |
+| Dec. 9, 2024   | Sora       | OpenAI        | Text-to-video model      |
+| Dec. 9, 2024   | Aurora     | xAI           | Text-to-image model      |
+| Dec. 5, 2024   | o1         | OpenAI        | Reasoning AI model       |
+| Aug. 14, 2024  | Grok-2     | xAI           | Large language model     |
+| Jul. 18, 2024  | GPT-4o mini| OpenAI        | Multimodal AI model      |
+| May 13, 2024   | GPT-4o     | OpenAI        | Multimodal AI model      |
+| Mar. 29, 2024  | Grok-1.5   | xAI           | Large language model     |
+| Mar. 17, 2024  | Grok-1     | xAI           | Large language model     |
+| Feb. 21, 2024  | Gemma      | Google DeepMind | Large language model   |
+| Dec. 21, 2023  | Midjourney v6 | Midjourney | Text-to-image model      |
+\* Retrieved on 12/09/24.
 
+### AI Benchmarks
+| Benchmark              | Task Category              | Year Introduced |
+|------------------------|----------------------------|-----------------|
+| AgentBench             | Agent-based behavior       | 2023           |
+| BigToM                 | Causal reasoning           | 2023           |
+| Chatbot Arena Leaderboard | General language         | 2023           |
+| GPQA                   | General reasoning          | 2023           |
+| GSM8K                  | Mathematical reasoning     | 2021           |
+| HEIM                   | Image generation           | 2023           |
+| HELM                   | General language           | 2021           |
+| HaluEval               | Factuality                 | 2023           |
+| HumanEval              | Coding                     | 2021           |
+| MATH                   | Mathematical reasoning     | 2021           |
+| MMMU                   | General reasoning          | 2023           |
+| MoCa                   | Moral reasoning            | 2023           |
+| PlanBench              | Planning                   | 2023           |
+| SWE-bench              | Coding                     | 2023           |
+| TruthfulQA             | Factuality                 | 2021           |
+| AILuminate             | AI Safety                  | 2024           |
+| AIR-Bench              | AI Safety                  | 2024           |
+\* Retrieved from the AI Index Report 2024
 
 ### Events
 - [Conference on Neural Information Processing Systems | NeurIPS](https://neurips.cc/)
