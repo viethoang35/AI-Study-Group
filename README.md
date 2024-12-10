@@ -1,6 +1,19 @@
 # AI-Study-Group
 Notes used to understand AI
 
+### Models
+- [GPT]
+- [Llama]
+
+
+### Events
+- [Conference on Neural Information Processing Systems | NeurIPS](https://neurips.cc/)
+- [IEEE/CVF Conference on Computer Vision and Pattern Recognition | CVPR](https://cvpr.thecvf.com/)
+- [International Conference on Machine Learning | ICML](https://icml.cc/)
+- [AAAI Conference on Artificial Intelligence](https://aaai.org/conference/aaai/)
+- [International Conference on Learning Representations | ICLR](https://iclr.cc/)
+- 
+
 ## Internet Articles
 ### Interviews
 - [John Carmack: Different path to AGI](https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/)
