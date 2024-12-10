@@ -15,6 +15,7 @@ Notes used to understand AI
 | Mar. 17, 2024  | Grok-1     | xAI           | Large language model     |
 | Feb. 21, 2024  | Gemma      | Google DeepMind | Large language model   |
 | Dec. 21, 2023  | Midjourney v6 | Midjourney | Text-to-image model      |
+
 \* Retrieved on 12/09/24.
 
 ### AI Benchmarks
@@ -37,6 +38,7 @@ Notes used to understand AI
 | TruthfulQA             | Factuality                 | 2021           |
 | AILuminate             | AI Safety                  | 2024           |
 | AIR-Bench              | AI Safety                  | 2024           |
+
 \* Retrieved from the AI Index Report 2024
 
 ### Events
