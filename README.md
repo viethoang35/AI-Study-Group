@@ -38,6 +38,9 @@ Notes used to understand AI
 Commercial Gender Classification](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
 - [Uncovering and Mitigating Algorithmic Bias through Learned Latent Structure](http://introtodeeplearning.com/AAAI_MitigatingAlgorithmicBias.pdf)
 
+## Reports
+- [AI Index Report | Stanford](https://hai.stanford.edu/research/ai-index-report)
+
 ## Datasets
 - [Kaggle Datasets](https://www.kaggle.com/datasets/)
 - [CelebA](https://paperswithcode.com/dataset/celeba)
