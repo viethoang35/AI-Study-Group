@@ -65,6 +65,17 @@ Notes used to understand AI
 
 ## Books
 - [Deep Learning - A Visual Approach](https://www.glassner.com/portfolio/deep-learning-a-visual-approach/) Probably the best resource out there to get a solid intuition about the many concepts surrounding Deep Learning.
+- [Math for Deep Learning: A Practitioner's Guide to Mastering Neural Networks]()
+- [Dive Into Data Science: Use Python To Tackle Your Toughest Business Challenges]()
+- [Practical Deep Learning: A Python-Based Introduction]()
+- [Grokking Deep Learning]()
+- [The Shape of Data: Geometry-Based Machine Learning and Data Analysis in R]()
+- [The Art of Machine Learning: A Hands-On Guide to Machine Learning with R]()
+- [How AI Works: From Sorcery to Science]()
+- [The Coming Wave: Technology, Power, and the Twenty-first Century's Greatest Dilemma]()
+- [Superintelligence: Paths, Dangers, Strategies]()
+- [Ways of Being: Animals, Plants, Machines: The Search for a Planetary Intelligence]()
+- [The Coming Wave: Technology, Power, and the Twenty-first Century's Greatest Dilemma]()
 - [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD](https://course.fast.ai/Resources/book.html)
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 
