@@ -18,36 +18,15 @@ Notes used to understand AI
 
 \* Retrieved on 12/09/24.
 
-### AI Benchmarks
-| Benchmark              | Task Category              | Year Introduced |
-|------------------------|----------------------------|-----------------|
-| AgentBench             | Agent-based behavior       | 2023           |
-| BigToM                 | Causal reasoning           | 2023           |
-| Chatbot Arena Leaderboard | General language         | 2023           |
-| GPQA                   | General reasoning          | 2023           |
-| GSM8K                  | Mathematical reasoning     | 2021           |
-| HEIM                   | Image generation           | 2023           |
-| HELM                   | General language           | 2021           |
-| HaluEval               | Factuality                 | 2023           |
-| HumanEval              | Coding                     | 2021           |
-| MATH                   | Mathematical reasoning     | 2021           |
-| MMMU                   | General reasoning          | 2023           |
-| MoCa                   | Moral reasoning            | 2023           |
-| PlanBench              | Planning                   | 2023           |
-| SWE-bench              | Coding                     | 2023           |
-| TruthfulQA             | Factuality                 | 2021           |
-| AILuminate             | AI Safety                  | 2024           |
-| AIR-Bench              | AI Safety                  | 2024           |
-
-\* Retrieved from the AI Index Report 2024
-
 ### Events
 - [Conference on Neural Information Processing Systems | NeurIPS](https://neurips.cc/)
 - [IEEE/CVF Conference on Computer Vision and Pattern Recognition | CVPR](https://cvpr.thecvf.com/)
 - [International Conference on Machine Learning | ICML](https://icml.cc/)
 - [AAAI Conference on Artificial Intelligence](https://aaai.org/conference/aaai/)
 - [International Conference on Learning Representations | ICLR](https://iclr.cc/)
-- 
+
+### Videos
+- [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=2095s) Andrej Karpathy's step by step guide on how to build GPT. I watched this video, but his entire channel is very interesting.
 
 ## Internet Articles
 ### Interviews
@@ -82,6 +61,29 @@ Notes used to understand AI
 ## Courses
 - [MIT Intro to Deep Learning](http://introtodeeplearning.com/) FREE bootcamp by MIT researchers. It's ~10 hours of content covering the basic Deep Learning concepts.
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
+
+### AI Benchmarks
+| Benchmark              | Task Category              | Year Introduced |
+|------------------------|----------------------------|-----------------|
+| AgentBench             | Agent-based behavior       | 2023           |
+| BigToM                 | Causal reasoning           | 2023           |
+| Chatbot Arena Leaderboard | General language         | 2023           |
+| GPQA                   | General reasoning          | 2023           |
+| GSM8K                  | Mathematical reasoning     | 2021           |
+| HEIM                   | Image generation           | 2023           |
+| HELM                   | General language           | 2021           |
+| HaluEval               | Factuality                 | 2023           |
+| HumanEval              | Coding                     | 2021           |
+| MATH                   | Mathematical reasoning     | 2021           |
+| MMMU                   | General reasoning          | 2023           |
+| MoCa                   | Moral reasoning            | 2023           |
+| PlanBench              | Planning                   | 2023           |
+| SWE-bench              | Coding                     | 2023           |
+| TruthfulQA             | Factuality                 | 2021           |
+| AILuminate             | AI Safety                  | 2024           |
+| AIR-Bench              | AI Safety                  | 2024           |
+
+\* Retrieved from the AI Index Report 2024
 
 ## Papers
 ### 3D Model Generators
