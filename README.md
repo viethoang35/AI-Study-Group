@@ -110,6 +110,7 @@ Commercial Gender Classification](https://proceedings.mlr.press/v81/buolamwini18
 - [Cityscapes Dataset](https://www.cityscapes-dataset.com/)
 - [ObjectNet](https://objectnet.dev/)
 - [LAION 5B](https://laion.ai/blog/laion-5b/)
+- [NAIRR Datasets](https://nairrpilot.org/pilotresources)
 
 ## Helpers
 - [Standard Notations for Deep Learning](https://cs230.stanford.edu/files/Notation.pdf)
