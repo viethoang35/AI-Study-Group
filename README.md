@@ -5,6 +5,7 @@ Notes used to understand AI
 | Date           | Model Name | Creator       | Type                     |
 |----------------|------------|---------------|--------------------------|
 | Dec. 6, 2023   | Gemini     | Google        | Large language model     |
+| Dec. 6, 2023   | OLMO2      | Ai2           | Large language model     |
 | Dec. 9, 2024   | Sora       | OpenAI        | Text-to-video model      |
 | Dec. 9, 2024   | Aurora     | xAI           | Text-to-image model      |
 | Dec. 5, 2024   | o1         | OpenAI        | Reasoning AI model       |
