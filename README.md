@@ -19,6 +19,8 @@ Notes used to understand AI
 
 \* Retrieved on 12/09/24.
 
+- [Historical data on Models](https://epoch.ai/data)
+
 ### Events
 - [Conference on Neural Information Processing Systems | NeurIPS](https://neurips.cc/)
 - [IEEE/CVF Conference on Computer Vision and Pattern Recognition | CVPR](https://cvpr.thecvf.com/)
