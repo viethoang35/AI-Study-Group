@@ -19,7 +19,7 @@ Notes used to understand AI
 
 \* Retrieved on 12/09/24.
 
-- [Historical data on 'notable' Models](https://epoch.ai/data](https://epoch.ai/data/notable-ai-models))
+- [Historical data on 'notable' Models](https://epoch.ai/data](https://epoch.ai/data/notable-ai-models)
 
 ### Events
 - [Conference on Neural Information Processing Systems | NeurIPS](https://neurips.cc/)
