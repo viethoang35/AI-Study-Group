@@ -4,20 +4,21 @@ Notes used to understand AI
 ### Models
 | Date           | Model Name | Creator       | Type                     |
 |----------------|------------|---------------|--------------------------|
-| Dec. 6, 2023   | Gemini     | Google        | Large language model     |
-| Dec. 6, 2023   | OLMO2      | Ai2           | Large language model     |
-| Dec. 9, 2024   | Sora       | OpenAI        | Text-to-video model      |
-| Dec. 9, 2024   | Aurora     | xAI           | Text-to-image model      |
-| Dec. 5, 2024   | o1         | OpenAI        | Reasoning AI model       |
-| Aug. 14, 2024  | Grok-2     | xAI           | Large language model     |
-| Jul. 18, 2024  | GPT-4o mini| OpenAI        | Multimodal AI model      |
-| May 13, 2024   | GPT-4o     | OpenAI        | Multimodal AI model      |
-| Mar. 29, 2024  | Grok-1.5   | xAI           | Large language model     |
-| Mar. 17, 2024  | Grok-1     | xAI           | Large language model     |
-| Feb. 21, 2024  | Gemma      | Google DeepMind | Large language model   |
+| Dec. 6, 2023   | Deep-Seek R1   | DeepSeek      | Large language model     |
+| Dec. 6, 2023   | Gemini       | Google        | Large language model     |
+| Dec. 6, 2023   | OLMO2        | Ai2           | Large language model     |
+| Dec. 9, 2024   | Sora         | OpenAI        | Text-to-video model      |
+| Dec. 9, 2024   | Aurora       | xAI           | Text-to-image model      |
+| Dec. 5, 2024   | o1           | OpenAI        | Reasoning AI model       |
+| Aug. 14, 2024  | Grok-2       | xAI           | Large language model     |
+| Jul. 18, 2024  | GPT-4o mini  | OpenAI        | Multimodal AI model      |
+| May 13, 2024   | GPT-4o       | OpenAI        | Multimodal AI model      |
+| Mar. 29, 2024  | Grok-1.5     | xAI           | Large language model     |
+| Mar. 17, 2024  | Grok-1       | xAI           | Large language model     |
+| Feb. 21, 2024  | Gemma        | Google DeepMind | Large language model   |
 | Dec. 21, 2023  | Midjourney v6 | Midjourney | Text-to-image model      |
 
-\* Retrieved on 12/09/24.
+\* Retrieved on 01/29/25.
 
 - [Historical data on 'notable' Models by Epoch](https://epoch.ai/data/notable-ai-models)
 
@@ -119,4 +120,4 @@ Commercial Gender Classification](https://proceedings.mlr.press/v81/buolamwini18
 - [Standard Notations for Deep Learning](https://cs230.stanford.edu/files/Notation.pdf)
 
 ## Ethics
-* Ethics of AI https://ethics-of-ai.mooc.fi/
+* [Ethics of AI](https://ethics-of-ai.mooc.fi/)
