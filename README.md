@@ -63,6 +63,7 @@ Notes used to understand AI
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 
 ## Courses
+- [Getting Started with Deep Learning](https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-FX-01+V1) Short and to the point intro to Deep Learning. It comes with Jupyter notebooks for learning and assessing your skills.
 - [MIT Intro to Deep Learning](http://introtodeeplearning.com/) FREE bootcamp by MIT researchers. It's ~10 hours of content covering the basic Deep Learning concepts.
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
 
