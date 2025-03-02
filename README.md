@@ -61,6 +61,7 @@ Notes used to understand AI
 - [The Coming Wave: Technology, Power, and the Twenty-first Century's Greatest Dilemma]()
 - [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD](https://course.fast.ai/Resources/book.html)
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+- [The Myth of Artificial Intelligence]()
 
 ## Courses
 - [Getting Started with Deep Learning](https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-FX-01+V1) Short and to the point intro to Deep Learning. It comes with Jupyter notebooks for learning and assessing your skills.
