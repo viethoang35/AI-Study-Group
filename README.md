@@ -44,7 +44,6 @@ Notes used to understand AI
 - [C++ Neural Network in a Weekend](https://www.jeremyong.com/cpp/machine-learning/2020/10/23/cpp-neural-network-in-a-weekend/)
 
 ### Articles
-- [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
 - [explained.ai](https://explained.ai/)
 
 ## Books
@@ -94,6 +93,9 @@ Notes used to understand AI
 \* Retrieved from the AI Index Report 2024
 
 ## Papers
+### LLMs 
+- [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
+  
 ### 3D Model Generators
 - [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/)
 - [GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images](https://nv-tlabs.github.io/GET3D/)
