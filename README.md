@@ -44,6 +44,7 @@ Notes used to understand AI
 - [C++ Neural Network in a Weekend](https://www.jeremyong.com/cpp/machine-learning/2020/10/23/cpp-neural-network-in-a-weekend/)
 
 ### Articles
+- [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
 - [explained.ai](https://explained.ai/)
 
 ## Books
