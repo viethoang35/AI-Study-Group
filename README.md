@@ -1,31 +1,7 @@
 # AI-Study-Group
 Notes used to understand AI
 
-### Events
-- [Conference on Neural Information Processing Systems | NeurIPS](https://neurips.cc/)
-- [IEEE/CVF Conference on Computer Vision and Pattern Recognition | CVPR](https://cvpr.thecvf.com/)
-- [International Conference on Machine Learning | ICML](https://icml.cc/)
-- [AAAI Conference on Artificial Intelligence](https://aaai.org/conference/aaai/)
-- [International Conference on Learning Representations | ICLR](https://iclr.cc/)
-
-### Videos
-- [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=2095s) Andrej Karpathy's step by step guide on how to build GPT. I watched this video, but his entire channel is very interesting.
-
-## Internet Articles
-### Interviews
-- [John Carmack: Different path to AGI](https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/)
-
-### Blog posts
-- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) & [The Narrated Illustrated Transformer](https://www.youtube.com/watch?v=-QH8fRhqFHM&list=WL&index=2)
-- Deep Learning in a Nutshell [Part 1: Core Concepts](https://developer.nvidia.com/blog/deep-learning-nutshell-core-concepts/) | [Part 2:  History and Training](https://developer.nvidia.com/blog/deep-learning-nutshell-history-training/) | [Part 3: Sequence Learning](https://developer.nvidia.com/blog/deep-learning-nutshell-sequence-learning/) | [Part 4: Reinforcement Learning](https://developer.nvidia.com/blog/deep-learning-nutshell-reinforcement-learning/) | [Part 3: Reinforcement Learning](https://developer.nvidia.com/blog/deep-learning-nutshell-reinforcement-learning/)
-
-### Tutorials
-- [C++ Neural Network in a Weekend](https://www.jeremyong.com/cpp/machine-learning/2020/10/23/cpp-neural-network-in-a-weekend/)
-
-### Articles
-- [explained.ai](https://explained.ai/)
-
-## Books
+### Books
 - [Deep Learning - A Visual Approach](https://www.glassner.com/portfolio/deep-learning-a-visual-approach/) Probably the best resource out there to get a solid intuition about the many concepts surrounding Deep Learning.
 - [Math for Deep Learning: A Practitioner's Guide to Mastering Neural Networks]()
 - [Dive Into Data Science: Use Python To Tackle Your Toughest Business Challenges]()
@@ -43,55 +19,51 @@ Notes used to understand AI
 - [The Myth of Artificial Intelligence]()
 - [Dive into Deep Learning](https://d2l.ai/index.html)
 
-## Courses
+### Courses & Tutorials
 - [Getting Started with Deep Learning](https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-FX-01+V1) Short and to the point intro to Deep Learning. It comes with Jupyter notebooks for learning and assessing your skills.
 - [MIT Intro to Deep Learning](http://introtodeeplearning.com/) FREE bootcamp by MIT researchers. It's ~10 hours of content covering the basic Deep Learning concepts.
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
+- [C++ Neural Network in a Weekend](https://www.jeremyong.com/cpp/machine-learning/2020/10/23/cpp-neural-network-in-a-weekend/)
 
-### AI Benchmarks
-| Benchmark              | Task Category              | Year Introduced |
-|------------------------|----------------------------|-----------------|
-| AgentBench             | Agent-based behavior       | 2023           |
-| BigToM                 | Causal reasoning           | 2023           |
-| Chatbot Arena Leaderboard | General language         | 2023           |
-| GPQA                   | General reasoning          | 2023           |
-| GSM8K                  | Mathematical reasoning     | 2021           |
-| HEIM                   | Image generation           | 2023           |
-| HELM                   | General language           | 2021           |
-| HaluEval               | Factuality                 | 2023           |
-| HumanEval              | Coding                     | 2021           |
-| MATH                   | Mathematical reasoning     | 2021           |
-| MMMU                   | General reasoning          | 2023           |
-| MoCa                   | Moral reasoning            | 2023           |
-| PlanBench              | Planning                   | 2023           |
-| SWE-bench              | Coding                     | 2023           |
-| TruthfulQA             | Factuality                 | 2021           |
-| AILuminate             | AI Safety                  | 2024           |
-| AIR-Bench              | AI Safety                  | 2024           |
+### Videos & Talks
+- [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=2095s) Andrej Karpathy's step-by-step guide on building GPT. I watched this video, but his entire channel is pretty good.
 
-\* Retrieved from the AI Index Report 2024
+### Tools, Frameworks & Platforms
+#### Core Frameworks
+* [HuggingFace](https://huggingface.co/)
+* [Ollama](https://ollama.com/)
+* [LangChain](https://www.langchain.com/)
+* [LlamaIndex](https://www.llamaindex.ai/)
+* [HayStack](https://haystack.deepset.ai/)
+* [OpenWebUI](https://openwebui.com/)
 
-## Papers
-### LLMs 
+#### Developer Tools
+* [Gradio](https://www.gradio.app/)
+* [Google Colab](https://colab.research.google.com/)
+
+
+#### Platforms and APIs
+* [Google AI for Developers](https://ai.google.dev/)
+
+### Articles, Blogs & Interviews
+- [John Carmack: Different path to AGI](https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/)
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) & [The Narrated Illustrated Transformer](https://www.youtube.com/watch?v=-QH8fRhqFHM&list=WL&index=2)
+- Deep Learning in a Nutshell [Part 1: Core Concepts](https://developer.nvidia.com/blog/deep-learning-nutshell-core-concepts/) | [Part 2:  History and Training](https://developer.nvidia.com/blog/deep-learning-nutshell-history-training/) | [Part 3: Sequence Learning](https://developer.nvidia.com/blog/deep-learning-nutshell-sequence-learning/) | [Part 4: Reinforcement Learning](https://developer.nvidia.com/blog/deep-learning-nutshell-reinforcement-learning/) | [Part 5: Reinforcement Learning](https://developer.nvidia.com/blog/deep-learning-nutshell-reinforcement-learning/)
+
+### Benchmarks
+
+### Papers
 - [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
-  
-### 3D Model Generators
 - [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/)
 - [GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images](https://nv-tlabs.github.io/GET3D/)
 - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)
 - [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://lukashoel.github.io/text-to-room/)
-### 2D Image Generators
 - [Imagen: Text-to-Image Difussion Models](https://imagen.research.google/)
-### Others
 - [Gen-1](https://arxiv.org/abs/2302.03011)
-- [Gender Shades: Intersectional Accuracy Disparities in
-Commercial Gender Classification](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
+- [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
 - [Uncovering and Mitigating Algorithmic Bias through Learned Latent Structure](http://introtodeeplearning.com/AAAI_MitigatingAlgorithmicBias.pdf)
 
-## Reports
-- [AI Index Report | Stanford](https://hai.stanford.edu/research/ai-index-report)
-
-## Datasets
+### Datasets
 - [Kaggle Datasets](https://www.kaggle.com/datasets/)
 - [CelebA](https://paperswithcode.com/dataset/celeba)
 - [COCO](https://cocodataset.org/#home)
@@ -102,9 +74,19 @@ Commercial Gender Classification](https://proceedings.mlr.press/v81/buolamwini18
 - [NAIRR Datasets](https://nairrpilot.org/pilotresources)
 - [UCI Machine Learning Datasets](https://archive.ics.uci.edu/datasets)
 
-## Helpers
+### Ethics
+* [Ethics of AI](https://ethics-of-ai.mooc.fi/)
+
+### Notes & Highlights
 - [Standard Notations for Deep Learning](https://cs230.stanford.edu/files/Notation.pdf)
 - [Historical data on 'notable' Models by Epoch](https://epoch.ai/data/notable-ai-models)
 
-## Ethics
-* [Ethics of AI](https://ethics-of-ai.mooc.fi/)
+### Events & Conferences
+- [Conference on Neural Information Processing Systems | NeurIPS](https://neurips.cc/)
+- [IEEE/CVF Conference on Computer Vision and Pattern Recognition | CVPR](https://cvpr.thecvf.com/)
+- [International Conference on Machine Learning | ICML](https://icml.cc/)
+- [AAAI Conference on Artificial Intelligence](https://aaai.org/conference/aaai/)
+- [International Conference on Learning Representations | ICLR](https://iclr.cc/)
+
+### Reports
+- [AI Index Report | Stanford](https://hai.stanford.edu/research/ai-index-report)
