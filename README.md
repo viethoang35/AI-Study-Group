@@ -41,7 +41,6 @@ Notes used to understand AI
 * [Gradio](https://www.gradio.app/)
 * [Google Colab](https://colab.research.google.com/)
 
-
 #### Platforms and APIs
 * [Google AI for Developers](https://ai.google.dev/)
 
@@ -49,8 +48,6 @@ Notes used to understand AI
 - [John Carmack: Different path to AGI](https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) & [The Narrated Illustrated Transformer](https://www.youtube.com/watch?v=-QH8fRhqFHM&list=WL&index=2)
 - Deep Learning in a Nutshell [Part 1: Core Concepts](https://developer.nvidia.com/blog/deep-learning-nutshell-core-concepts/) | [Part 2:  History and Training](https://developer.nvidia.com/blog/deep-learning-nutshell-history-training/) | [Part 3: Sequence Learning](https://developer.nvidia.com/blog/deep-learning-nutshell-sequence-learning/) | [Part 4: Reinforcement Learning](https://developer.nvidia.com/blog/deep-learning-nutshell-reinforcement-learning/) | [Part 5: Reinforcement Learning](https://developer.nvidia.com/blog/deep-learning-nutshell-reinforcement-learning/)
-
-### Benchmarks
 
 ### Papers
 - [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
