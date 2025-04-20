@@ -18,6 +18,7 @@ Notes used to understand AI
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 - [The Myth of Artificial Intelligence]()
 - [Dive into Deep Learning](https://d2l.ai/index.html)
+- [Why Machines Learn: The Elegant Math Behind Modern AI](https://anilananthaswamy.com/why-machines-learn) A fascinating mix of maths and history on how we got to LLMs today (2024). I suggest getting to this after learning some basic math first; you'll find it more helpful.
 
 ### Courses & Tutorials
 - [Getting Started with Deep Learning](https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-FX-01+V1) Short and to the point intro to Deep Learning. It comes with Jupyter notebooks for learning and assessing your skills.
