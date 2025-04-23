@@ -33,6 +33,8 @@ Notes used to understand AI
 ## Videos & Talks
 - [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=2095s) Andrej Karpathy's step-by-step guide on building GPT. I watched this video, but his entire channel is pretty good.
 
+<img src="./Illustrations/Characters/NI_Architect.png" alt="AI Teacher" align="right" width="300px">
+
 ## Tools, Frameworks & Platforms
 ### Core Frameworks
 * [HuggingFace](https://huggingface.co/)
@@ -48,6 +50,38 @@ Notes used to understand AI
 
 ### Platforms and APIs
 * [Google AI for Developers](https://ai.google.dev/)
+
+## Python Libraries & Toolkits
+
+### Data Science & Computation
+- Pandas
+- NumPy
+- SciPy
+- scikit-learn
+
+### Plotting & Visualization
+- Matplotlib
+- Seaborn
+
+### Machine Learning / Deep Learning
+- TensorFlow
+- PyTorch
+
+### Image Processing
+- Pillow
+
+### Web Scraping
+- Beautiful Soup
+- Selenium
+
+## Models
+
+These are the model's I've used or explored.
+- GPT (OpenAI)
+- Claude (Anthropic)
+- Gemini (Google DeepMind)
+- LLaMA (Meta)
+- DeepSeek
 
 ## Articles, Blogs & Interviews
 - [John Carmack: Different path to AGI](https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/)
