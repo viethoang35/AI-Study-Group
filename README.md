@@ -65,26 +65,13 @@ Here are the books I've read to make sense of AI/ML/DL. Some are more technical,
 
 ## Python Libraries & Toolkits
 
-### Data Science & Computation
-- Pandas
-- NumPy
-- SciPy
-- scikit-learn
-
-### Plotting & Visualization
-- Matplotlib
-- Seaborn
-
-### Machine Learning / Deep Learning
-- TensorFlow
-- PyTorch
-
-### Image Processing
-- Pillow
-
-### Web Scraping
-- Beautiful Soup
-- Selenium
+| Category                     | Libraries                  |
+|-------------------------------|-----------------------------|
+| Data Science & Computation    | Pandas, NumPy, SciPy, scikit-learn |
+| Plotting & Visualization      | Matplotlib, Seaborn         |
+| Machine Learning / Deep Learning | TensorFlow, PyTorch       |
+| Image Processing              | Pillow                      |
+| Web Scraping                  | Beautiful Soup, Selenium    |
 
 <img src="./Illustrations/Characters/NI_Programmer.png" alt="AI Teacher" align="right" width="200px">
 
