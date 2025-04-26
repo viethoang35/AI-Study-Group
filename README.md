@@ -5,11 +5,11 @@
 > 
 > When I was working in games, people would ask me, “How do I learn to make games?” My answer was always the same: “Build a game, and learn the things you need to build that game.” 
 > 
-> I don’t think you learn by absorbing everything up front, you learn by moving, making, and getting stuck. This repository is where I collect the material I reach for when that happens.
+> I don’t think you learn by absorbing everything up front, you learn by moving, making, and getting stuck. 
 >
-> It contains the material I’ve used (and am still using) to learn AI. Do I know AI? Of course not, maybe I never will. But I’m having a wonderful time learning, building tools, talking about it, and figuring things out along the way.
+> This repository contains the material I’ve used (and am still using) to learn AI. Do I know AI? Of course not, maybe I never will. But I’m having a wonderful time learning, building tools, talking about it, and figuring things out along the way.
 >
-> I hope something in here is useful to you, too.
+> I hope you find useful content in here, and if you have suggestions, please let me know!
 
 ## Books
 Here are the books I've read to make sense of AI/ML/DL. Some are more technical, some are more theoretical, and some are more ideas.
