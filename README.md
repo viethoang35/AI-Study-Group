@@ -1,6 +1,6 @@
 ![](./Illustrations/Banner.png)
 
-> ### Learning has always felt like a road...  
+> ### Learning is like a road...  
 > One that forks every couple of meters, where you never really arrive anywhere. That’s the beauty of it.
 > 
 > When I was working in games, people would ask me, “How do I learn to make games?” My answer was always the same: “Build a game, and learn the things you need to build that game.” 
