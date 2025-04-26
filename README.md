@@ -1,12 +1,16 @@
 ![](./Illustrations/Banner.png)
 
-Learning has always been a road, but road that forks every couple of meters and were you never reach any place. This is the beauty of learning. 
-
-When I worked at Unity, poeple asked me: "how do I learn Unity". My answer was always: "try to make a clone of an existing game, and learn the tools and abilities that will take you there." Because I don't think
-
-This repository, contains the relevant material I've studied to learn AI. Do I know AI? Of course not, maybe I'll never, but in the process, I'm having a wonderful time, and I'm building tools, software, agents, with what I get along the way.
-
-I hope some of this is useful to you as it was to me. 
+> ### Learning has always felt like a road...  
+> One that forks every couple of meters, where you never really arrive anywhere. That’s the beauty of it.
+> 
+> When I was working in games, people would ask me, “How do I learn to make games?” My answer was always the same: “Build a game, and learn the things you need to build that game.” 
+> 
+> I don’t think you learn by absorbing everything up front, you learn by moving, making, and getting stuck. This repository is where I collect the material I reach for when that happens.
+>
+> It contains the material I’ve used (and am still using) to learn AI. Do I know AI? Of course not, maybe I never will. But I’m having a wonderful time learning, building tools, talking about it, and figuring things out along the way.
+>
+> I hope something in here is useful to you, too.
+---
 
 ## Books
 Here are the books I've read to make sense of AI/ML/DL. Some are more technical, some are more theoretical, and some are more ideas.
