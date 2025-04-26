@@ -1,5 +1,12 @@
-# AI-Study-Group
-Notes used to understand AI
+![](./Illustrations/Banner.png)
+
+Learning has always been a road, but road that forks every couple of meters and were you never reach any place. This is the beauty of learning. 
+
+When I worked at Unity, poeple asked me: "how do I learn Unity". My answer was always: "try to make a clone of an existing game, and learn the tools and abilities that will take you there." Because I don't think
+
+This repository, contains the relevant material I've studied to learn AI. Do I know AI? Of course not, maybe I'll never, but in the process, I'm having a wonderful time, and I'm building tools, software, agents, with what I get along the way.
+
+I hope some of this is useful to you as it was to me. 
 
 ## Books
 Here are the books I've read to make sense of AI/ML/DL. Some are more technical, some are more theoretical, and some are more ideas.
