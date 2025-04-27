@@ -40,10 +40,9 @@ They are not in any particular order, although I tried to group them together ba
 - [The Coming Wave: Technology, Power, and the Twenty-first Century's Greatest Dilemma]()
 - [Ways of Being: Animals, Plants, Machines: The Search for a Planetary Intelligence]()
 
-
+## Courses & Tutorials
 <img src="./Illustrations/Characters/AI_Teacher.png" alt="AI Teacher" align="right" width="200px">
 
-## Courses & Tutorials
 - [Getting Started with Deep Learning](https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-FX-01+V1) Short and to the point intro to Deep Learning. It comes with Jupyter notebooks for learning and assessing your skills.
 - [MIT Intro to Deep Learning](http://introtodeeplearning.com/) FREE bootcamp by MIT researchers. It's ~10 hours of content covering the basic Deep Learning concepts.
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
@@ -52,9 +51,9 @@ They are not in any particular order, although I tried to group them together ba
 
 
 ## Videos & Talks
-- [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=2095s) Andrej Karpathy's step-by-step guide on building GPT. I watched this video, but his entire channel is pretty good.
+<img src="./Illustrations/Characters/NI_Architect.png" alt="AI Architect" align="right" width="150px">
 
-<img src="./Illustrations/Characters/NI_Architect.png" alt="AI Teacher" align="right" width="150px">
+- [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=2095s) Andrej Karpathy's step-by-step guide on building GPT. I watched this video, but his entire channel is pretty good.
 
 ## Tools, Frameworks & Platforms
 ### Core Frameworks
@@ -82,9 +81,9 @@ They are not in any particular order, although I tried to group them together ba
 | Image Processing              | Pillow                      |
 | Web Scraping                  | Beautiful Soup, Selenium    |
 
-<img src="./Illustrations/Characters/NI_Programmer.png" alt="AI Teacher" align="right" width="200px">
-
 ## Models
+<img src="./Illustrations/Characters/NI_Programmer.png" alt="NI Programmer" align="right" width="200px">
+
 These are the model's I've used or explored.
 - GPT (OpenAI)
 - Claude (Anthropic)
@@ -97,9 +96,9 @@ These are the model's I've used or explored.
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) & [The Narrated Illustrated Transformer](https://www.youtube.com/watch?v=-QH8fRhqFHM&list=WL&index=2)
 - Deep Learning in a Nutshell [Part 1: Core Concepts](https://developer.nvidia.com/blog/deep-learning-nutshell-core-concepts/) | [Part 2:  History and Training](https://developer.nvidia.com/blog/deep-learning-nutshell-history-training/) | [Part 3: Sequence Learning](https://developer.nvidia.com/blog/deep-learning-nutshell-sequence-learning/) | [Part 4: Reinforcement Learning](https://developer.nvidia.com/blog/deep-learning-nutshell-reinforcement-learning/) | [Part 5: Reinforcement Learning](https://developer.nvidia.com/blog/deep-learning-nutshell-reinforcement-learning/)
 
-<img src="./Illustrations/Characters/AI_Scientist.png" alt="AI Teacher" align="right" width="200px">
-
 ## Papers
+<img src="./Illustrations/Characters/AI_Scientist.png" alt="AI Scientist" align="right" width="200px">
+
 - [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
 - [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/)
 - [GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images](https://nv-tlabs.github.io/GET3D/)
