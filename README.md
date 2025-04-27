@@ -7,30 +7,38 @@
 > 
 > I don’t think you learn by absorbing everything up front, you learn by moving, making, and getting stuck. 
 >
-> This repository contains the material I’ve used (and am still using) to learn AI. Do I know AI? Of course not, maybe I never will. But I’m having a wonderful time learning, building tools, talking about it, and figuring things out along the way.
+> This repository contains the material I’ve used (and am still using) to learn AI. 
+> 
+> Do I know AI? Of course not, maybe I never will. But I’m having a wonderful time learning, building tools, talking about it, and figuring things out along the way.
 >
 > I hope you find useful content in here, and if you have suggestions, please let me know!
 
 ## Books
+<img src="./Illustrations/Characters/NI_Cool.png" alt="NI Cool" align="right" width="200px">
+
 Here are the books I've read to make sense of AI/ML/DL. Some are more technical, some are more theoretical, and some are more ideas.
 
-- [Deep Learning - A Visual Approach](https://www.glassner.com/portfolio/deep-learning-a-visual-approach/) Probably the best resource out there to get a solid intuition about the many concepts surrounding Deep Learning.
-- [Math for Deep Learning: A Practitioner's Guide to Mastering Neural Networks]()
-- [Dive Into Data Science: Use Python To Tackle Your Toughest Business Challenges]()
-- [Practical Deep Learning: A Python-Based Introduction]()
-- [Grokking Deep Learning]()
+They are not in any particular order, although I tried to group them together based on what i think makes sense.
+
+- [Deep Learning - A Visual Approach](https://www.glassner.com/portfolio/deep-learning-a-visual-approach/) Probably the best resource out there for building solid intuition about the many concepts surrounding deep learning. Andrew, the author, did a wonderful job illustrating these concepts, making it much easier to develop a real understanding of them.
+- [Practical Deep Learning: A Python-Based Introduction](https://nostarch.com/practical-deep-learning-python) Probably the best resource for balancing deep learning concepts with a hands-on, Python-based approach. It’s much easier to follow if you actively implement the code, even if that just means typing out the examples from the book.
+- [Dive Into Data Science: Use Python To Tackle Your Toughest Business Challenges](https://nostarch.com/dive-data-science) Not strictly about AI, although if you think about it, AI is deeply tied to data science. This book is great for understanding real-world scenarios and how to approach them using AI tools and Python. For me, the data preparation part was especially helpful.
+- [Dive into Deep Learning](https://d2l.ai/index.html) An amazing free book that covers the fundamental concepts of deep learning, including how to build your own models from scratch. It leans toward the heavier side, but it comes with plenty of Jupyter notebooks you can run to test your understanding. I still can’t believe this resource is free.
+- [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) When I read this book, I had a lot of “aha” moments. I’m not sure if it was the clarity of the explanations or the fact that I already had some background from other books, but either way, the examples and explanations are excellent. It strikes a good balance between theory, algorithms, and practical implementation.
+- [Math for Deep Learning: A Practitioner's Guide to Mastering Neural Networks](https://nostarch.com/math-deep-learning) If you’re interested in how AI works under the hood, it ultimately comes down to a lot of math. This book does a great job explaining the essential mathematics behind implementing neural networks. It can feel overwhelming at times. The book is incredibly helpful for understanding how popular frameworks work, and how to better evaluate them for your use cases.
+- [Why Machines Learn: The Elegant Math Behind Modern AI](https://anilananthaswamy.com/why-machines-learn) A fascinating mix of math and history that explores how we arrived at large language models (LLMs) today (2024). I recommend reading it after you’ve built some basic math foundations — you’ll find it much more helpful that way. 
+
+- [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+- [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD](https://course.fast.ai/Resources/book.html)
 - [The Shape of Data: Geometry-Based Machine Learning and Data Analysis in R]()
 - [The Art of Machine Learning: A Hands-On Guide to Machine Learning with R]()
-- [How AI Works: From Sorcery to Science]()
-- [The Coming Wave: Technology, Power, and the Twenty-first Century's Greatest Dilemma]()
+- [How AI Works: From Sorcery to Science](https://nostarch.com/how-ai-works) I recommend this book if you don’t want to code or dive into the technical details of AI, deep learning, or machine learning, but still want a high-level understanding of what it’s all about. It’s great for people in non-engineering or non-technical roles. The book gives clear explanations of how things work without getting lost in the weeds.
+
+
 - [Superintelligence: Paths, Dangers, Strategies]()
-- [Ways of Being: Animals, Plants, Machines: The Search for a Planetary Intelligence]()
-- [The Coming Wave: Technology, Power, and the Twenty-first Century's Greatest Dilemma]()
-- [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD](https://course.fast.ai/Resources/book.html)
-- [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 - [The Myth of Artificial Intelligence]()
-- [Dive into Deep Learning](https://d2l.ai/index.html)
-- [Why Machines Learn: The Elegant Math Behind Modern AI](https://anilananthaswamy.com/why-machines-learn) A fascinating mix of maths and history on how we got to LLMs today (2024). I suggest getting to this after learning some basic math first; you'll find it more helpful.
+- [The Coming Wave: Technology, Power, and the Twenty-first Century's Greatest Dilemma]()
+- [Ways of Being: Animals, Plants, Machines: The Search for a Planetary Intelligence]()
 
 
 <img src="./Illustrations/Characters/AI_Teacher.png" alt="AI Teacher" align="right" width="200px">
@@ -40,6 +48,7 @@ Here are the books I've read to make sense of AI/ML/DL. Some are more technical,
 - [MIT Intro to Deep Learning](http://introtodeeplearning.com/) FREE bootcamp by MIT researchers. It's ~10 hours of content covering the basic Deep Learning concepts.
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
 - [C++ Neural Network in a Weekend](https://www.jeremyong.com/cpp/machine-learning/2020/10/23/cpp-neural-network-in-a-weekend/)
+- [🤗 Agents Course](https://huggingface.co/learn/agents-course/) -- STILL TAKING THIS.
 
 
 ## Videos & Talks
