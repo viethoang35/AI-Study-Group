@@ -51,11 +51,11 @@ They are not in any particular order, although I tried to group them together ba
 
 
 ## Videos & Talks
-<img src="./Illustrations/Characters/NI_Architect.png" alt="AI Architect" align="right" width="150px">
-
 - [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=2095s) Andrej Karpathy's step-by-step guide on building GPT. I watched this video, but his entire channel is pretty good.
 
 ## Tools, Frameworks & Platforms
+<img src="./Illustrations/Characters/NI_Architect.png" alt="AI Architect" align="right" width="150px">
+
 ### Core Frameworks
 * [HuggingFace](https://huggingface.co/)
 * [Ollama](https://ollama.com/)
