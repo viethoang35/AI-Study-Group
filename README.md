@@ -51,13 +51,15 @@ If you prefer learning through videos or more interactive formats, I recommend t
 
 
 ## Videos & Talks
+- [Transformers (how LLMs work) explained visually](https://youtu.be/wjZofJX0v4M?si=AdcRXv8GtgIZTqkw) 3Blue1Brown’s beautifully and clearly explained video on how large language models (LLMs) work, including the transformer architecture and the concept of embeddings.
+- [Visualizing transformers and attention | Talk for TNG Big Tech Day '24](https://youtu.be/KJtZARuO3JY?si=rWDYNLAteyWnhHju) Grant Sanderson's (3Blue1Brown) live explanation on how to think visually about transformers. This session is at the intersection of art and science.
 - [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=2095s) Andrej Karpathy's step-by-step guide on building GPT. I watched this video, but his entire channel is pretty good.
 
 ## Tools, Frameworks & Platforms
 <img src="./Illustrations/Characters/NI_Architect.png" alt="AI Architect" align="right" width="150px">
 
 Understanding all the tools, frameworks, architectures, and ecosystems around AI can sometimes feel harder than understanding AI itself. Below are the ones I’ve explored and used enough to feel confident recommending.  
-Of course, these won’t solve every use case, and I’m not listing every supporting technology you might need to build real-world AI systems — but it’s a start.
+Of course, these won’t solve every use case, and I’m not listing every supporting technology you might need to build real-world AI systems, but it’s a start.
 
 | Category         | Tools  |
 |------------------|--------|
