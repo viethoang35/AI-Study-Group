@@ -53,8 +53,6 @@ They are not in any particular order, although I tried to group them together ba
 ## Tools, Frameworks & Platforms
 <img src="./Illustrations/Characters/NI_Architect.png" alt="AI Architect" align="right" width="150px">
 
-## Tools, Frameworks & Platforms
-
 | Category         | Tools  |
 |------------------|--------|
 | Core Frameworks   |   - [**Hugging Face**](https://huggingface.co/): [Tool Description] <br> - [**Ollama**](https://ollama.com/): [Tool Description] <br> - [**LangChain**](https://www.langchain.com/): [Tool Description] <br> - [**LlamaIndex**](https://www.llamaindex.ai/): [Tool Description] |
