@@ -53,20 +53,13 @@ They are not in any particular order, although I tried to group them together ba
 ## Tools, Frameworks & Platforms
 <img src="./Illustrations/Characters/NI_Architect.png" alt="AI Architect" align="right" width="150px">
 
-### Core Frameworks
-* [HuggingFace](https://huggingface.co/)
-* [Ollama](https://ollama.com/)
-* [LangChain](https://www.langchain.com/)
-* [LlamaIndex](https://www.llamaindex.ai/)
-* [HayStack](https://haystack.deepset.ai/)
-* [OpenWebUI](https://openwebui.com/)
+## Tools, Frameworks & Platforms
 
-### Developer Tools
-* [Gradio](https://www.gradio.app/)
-* [Google Colab](https://colab.research.google.com/)
-
-### Platforms and APIs
-* [Google AI for Developers](https://ai.google.dev/)
+| Category         | Tools  |
+|------------------|--------|
+| Core Frameworks   |   - [**Hugging Face**](https://huggingface.co/): [Tool Description] <br> - [**Ollama**](https://ollama.com/): [Tool Description] <br> - [**LangChain**](https://www.langchain.com/): [Tool Description] <br> - [**LlamaIndex**](https://www.llamaindex.ai/): [Tool Description] |
+| Developer Tools   |   - [**Gradio**](https://www.gradio.app/): [Tool Description] <br> - [**Google Colab**](https://colab.research.google.com/): [Tool Description] |
+| Platforms / APIs  |   - [**Google AI for Developers**](https://ai.google.dev/): [Tool Description] |
 
 ## Python Libraries & Toolkits
 
