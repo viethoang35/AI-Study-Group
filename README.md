@@ -56,10 +56,13 @@ If you prefer learning through videos or more interactive formats, I recommend t
 ## Tools, Frameworks & Platforms
 <img src="./Illustrations/Characters/NI_Architect.png" alt="AI Architect" align="right" width="150px">
 
+Understanding all the tools, frameworks, architectures, and ecosystems around AI can sometimes feel harder than understanding AI itself. Below are the ones I’ve explored and used enough to feel confident recommending.  
+Of course, these won’t solve every use case, and I’m not listing every supporting technology you might need to build real-world AI systems — but it’s a start.
+
 | Category         | Tools  |
 |------------------|--------|
 | Core Frameworks   |   - [**Hugging Face**](https://huggingface.co/): [Tool Description] <br> - [**Ollama**](https://ollama.com/): [Tool Description] <br> - [**LangChain**](https://www.langchain.com/): [Tool Description] <br> - [**LlamaIndex**](https://www.llamaindex.ai/): [Tool Description] |
-| Developer Tools   |   - [**Gradio**](https://www.gradio.app/): [Tool Description] <br> - [**Google Colab**](https://colab.research.google.com/): [Tool Description] |
+| Developer Tools   |   - [**Gradio**](https://www.gradio.app/): [Tool Description] <br> - [**Google Colab**](https://colab.research.google.com/): [Tool Description] <br> - [**MongoDB**](https://mongodb.com/): [Tool Description] |
 | Platforms / APIs  |   - [**Google AI for Developers**](https://ai.google.dev/): [Tool Description] |
 
 ## Python Libraries & Toolkits
