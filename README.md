@@ -72,6 +72,10 @@ Of course, these won’t solve every use case, and I’m not listing every suppo
 | Platforms / APIs  |   - [**Google AI for Developers**](https://ai.google.dev/): [Tool Description] |
 
 ## Python Libraries & Toolkits
+<img src="./Illustrations/Characters/AI_Aha.png" alt="AI Aha" align="right" width="150px">
+
+AI goes far beyond any single language, operating system, hardware, or framework. There are countless implementations across different programming languages, runtimes, and platforms. From my experience, though, Python is what most people use and teach.  
+Following that path, I’ve focused most of my learning around Python as well. That said, similar libraries (and often the same ones) likely exist for your favorite environment too.
 
 | Category                     | Libraries                  |
 |-------------------------------|-----------------------------|
