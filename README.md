@@ -40,11 +40,14 @@ They are not in any particular order, although I tried to group them together ba
 ## Courses & Tutorials
 <img src="./Illustrations/Characters/AI_Teacher.png" alt="AI Teacher" align="right" width="200px">
 
-- [Getting Started with Deep Learning](https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-FX-01+V1) Short and to the point intro to Deep Learning. It comes with Jupyter notebooks for learning and assessing your skills.
-- [MIT Intro to Deep Learning](http://introtodeeplearning.com/) FREE bootcamp by MIT researchers. It's ~10 hours of content covering the basic Deep Learning concepts.
-- [Practical Deep Learning for Coders](https://course.fast.ai/)
-- [C++ Neural Network in a Weekend](https://www.jeremyong.com/cpp/machine-learning/2020/10/23/cpp-neural-network-in-a-weekend/)
-- [🤗 Agents Course](https://huggingface.co/learn/agents-course/) -- STILL TAKING THIS.
+Not everyone learns the same way, sometimes I get too tired of just reading, and tutorials or courses in video form make me feel like I’m talking to someone.
+If you prefer learning through videos or more interactive formats, I recommend taking a look at the following materials:
+
+- [Getting Started with Deep Learning](https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-FX-01+V1) A short introduction to deep learning, delivered by NVIDIA. If you just want a quick glimpse of the very basics before jumping into higher-level implementation, this is a solid place to start.
+- [MIT Intro to Deep Learning](http://introtodeeplearning.com/) A free, intensive bootcamp taught by MIT researchers. Getting direct access to this content (updated every time they teach it) is amazing. (~10 hours of deep learning concepts, plus interesting guest lectures.)
+- [Practical Deep Learning for Coders](https://course.fast.ai/) This is the acompanying course version of the FastAI book by [Jeremy Howard](https://x.com/jeremyphoward).
+- [C++ Neural Network in a Weekend](https://www.jeremyong.com/cpp/machine-learning/2020/10/23/cpp-neural-network-in-a-weekend/) This might be too much if you’re just starting out, or if you’re not interested in low-level C++ implementations of neural networks. But I found it fascinating, and it made me appreciate how far modern frameworks and APIs have come.
+- [🤗 Agents Course](https://huggingface.co/learn/agents-course/) Now that agentic AI is trending, Hugging Face launched this free course showcasing their `smolagents` framework. It also covers LlamaIndex and LangGraph. 
 
 
 ## Videos & Talks
