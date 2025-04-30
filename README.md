@@ -90,11 +90,18 @@ Following that path, I’ve focused most of my learning around Python as well. T
 <img src="./Illustrations/Characters/NI_Programmer.png" alt="NI Programmer" align="right" width="200px">
 
 These are the model's I've used or explored.
-- GPT (OpenAI)
-- Claude (Anthropic)
-- Gemini (Google DeepMind)
-- LLaMA (Meta)
-- DeepSeek
+- [GPT (OpenAI)](https://platform.openai.com/docs/models)
+- [Claude (Anthropic)](https://www.anthropic.com/api)
+- [Gemini (Google DeepMind)](https://deepmind.google/technologies/gemini/)
+- [LLaMA (Meta)](https://www.llama.com/)
+- [DeepSeek](https://huggingface.co/deepseek-ai)
+
+But I encourage you to check out these popular model repositories, they contain many models with different licensings, and for different use cases:
+
+- [Hugging Face Models Hub](https://huggingface.co/models)
+- [TensorFlow Hub](https://www.tensorflow.org/hub)
+- [NVIDA NGC Catalog](https://catalog.ngc.nvidia.com/models)
+- [Roboflow Universe](https://universe.roboflow.com/)
 
 ## Articles, Blogs & Interviews
 - [John Carmack: Different path to AGI](https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/)
