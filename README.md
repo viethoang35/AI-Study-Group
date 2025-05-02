@@ -76,9 +76,8 @@ Of course, these won’t solve every use case, and I’m not listing every suppo
 
 | Category         | Tools  |
 |------------------|--------|
-| Core Frameworks   |   - [**Hugging Face**](https://huggingface.co/): A hub, that hosts models, datasets, apps, and communities around AI. <br> - [**Ollama**](https://ollama.com/): Run LLMs locally in your computer. <br> - [**LangChain**](https://www.langchain.com/): [Tool Description] <br> - [**LlamaIndex**](https://www.llamaindex.ai/): [Tool Description] |
-| Developer Tools   |   - [**Gradio**](https://www.gradio.app/): [Tool Description] <br> - [**Google Colab**](https://colab.research.google.com/): You have seen probably many resources use Jupyter Notebooks, this platform allows you to run them. <br> - [**MongoDB**](https://mongodb.com/): Database that allows you to perform vector search. |
-| Platforms / APIs  |   - [**Google AI for Developers**](https://ai.google.dev/): [Tool Description] |
+| Core Frameworks   |   - [**Hugging Face**](https://huggingface.co/): A hub, that hosts models, datasets, apps, and communities around AI. <br> - [**Ollama**](https://ollama.com/): Run LLMs locally in your computer. |
+| Developer Tools   |   - [**Gradio**](https://www.gradio.app/): Create ML-powered apps for the web. Easy to use UI API. <br> - [**Google Colab**](https://colab.research.google.com/): You have seen probably many resources use Jupyter Notebooks, this platform allows you to run them. <br> - [**MongoDB**](https://mongodb.com/): Database that allows you to perform vector search. |
 
 ## Python Libraries & Toolkits
 <img src="./Illustrations/Characters/AI_Aha.png" alt="AI Aha" align="right" width="200px">
