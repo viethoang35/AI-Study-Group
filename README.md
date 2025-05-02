@@ -121,7 +121,7 @@ Reading papers can be overwhelming at first. It’s not always easy to unpack th
 - [GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images](https://nv-tlabs.github.io/GET3D/)
 - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)
 - [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://lukashoel.github.io/text-to-room/)
-- [Imagen: Text-to-Image Difussion Models](https://imagen.research.google/)
+- [Imagen: Text-to-Image Diffusion Models](https://imagen.research.google/)
 - [Gen-1](https://arxiv.org/abs/2302.03011)
 - [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
 - [Uncovering and Mitigating Algorithmic Bias through Learned Latent Structure](http://introtodeeplearning.com/AAAI_MitigatingAlgorithmicBias.pdf)
