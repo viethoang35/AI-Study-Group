@@ -89,15 +89,16 @@ Following that path, I’ve focused most of my learning around Python as well. T
 ## Models
 <img src="./Illustrations/Characters/NI_Programmer.png" alt="NI Programmer" align="right" width="200px">
 
-These are the model's I've used or explored.
+At the core of deep learning are the models. Some are general-purpose large language models (LLMs), while others are specialized for specific tasks like text generation, image creation, or coding.
+
+These are the models I’ve used or explored:
 - [GPT (OpenAI)](https://platform.openai.com/docs/models)
 - [Claude (Anthropic)](https://www.anthropic.com/api)
 - [Gemini (Google DeepMind)](https://deepmind.google/technologies/gemini/)
 - [LLaMA (Meta)](https://www.llama.com/)
 - [DeepSeek](https://huggingface.co/deepseek-ai)
 
-But I encourage you to check out these popular model repositories, they contain many models with different licensings, and for different use cases:
-
+If you're looking to explore beyond these, I recommend checking out the following model hubs. They host a wide variety of models with different licenses and for many use cases:
 - [Hugging Face Models Hub](https://huggingface.co/models)
 - [TensorFlow Hub](https://www.tensorflow.org/hub)
 - [NVIDA NGC Catalog](https://catalog.ngc.nvidia.com/models)
