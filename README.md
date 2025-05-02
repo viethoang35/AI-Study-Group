@@ -153,4 +153,6 @@ This section includes some well-known datasets you can explore and use to train 
 - [Historical data on 'notable' Models by Epoch](https://epoch.ai/data/notable-ai-models)
 - [Ethics of AI](https://ethics-of-ai.mooc.fi/)
 
-<img src="./Illustrations/Characters/AI_Sleeping.png" alt="AI Sleeping" align="left" width="200px">
+<div align="center">
+  <img src="./Illustrations/Characters/AI_Sleeping.png" alt="AI Sleeping" width="200px">
+</div>
