@@ -61,7 +61,7 @@ One more thing I appreciate: in the world of AI, many of the best video talks an
 - [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=2095s) Andrej Karpathy's step-by-step guide on building GPT.
 
 ## Tools, Frameworks & Platforms
-<img src="./Illustrations/Characters/NI_Architect.png" alt="AI Architect" align="right" width="150px">
+<img src="./Illustrations/Characters/NI_Architect.png" alt="AI Architect" align="right" width="200px">
 
 Understanding all the tools, frameworks, architectures, and ecosystems around AI can sometimes feel harder than understanding AI itself. Below are the ones I’ve explored and used enough to feel confident recommending.  
 Of course, these won’t solve every use case, and I’m not listing every supporting technology you might need to build real-world AI systems, but it’s a start.
@@ -73,7 +73,7 @@ Of course, these won’t solve every use case, and I’m not listing every suppo
 | Platforms / APIs  |   - [**Google AI for Developers**](https://ai.google.dev/): [Tool Description] |
 
 ## Python Libraries & Toolkits
-<img src="./Illustrations/Characters/AI_Aha.png" alt="AI Aha" align="right" width="150px">
+<img src="./Illustrations/Characters/AI_Aha.png" alt="AI Aha" align="right" width="200px">
 
 AI goes far beyond any single language, operating system, hardware, or framework. There are countless implementations across different programming languages, runtimes, and platforms. From my experience, though, Python is what most people use and teach.  
 Following that path, I’ve focused most of my learning around Python as well. That said, similar libraries (and often the same ones) likely exist for your favorite environment too.
@@ -87,7 +87,7 @@ Following that path, I’ve focused most of my learning around Python as well. T
 | Web Scraping                  | Beautiful Soup, Selenium    |
 
 ## Models
-<img src="./Illustrations/Characters/NI_Programmer.png" alt="NI Programmer" align="right" width="200px">
+<img src="./Illustrations/Characters/NI_Wee.png" alt="NI Wee" align="right" width="200px">
 
 At the core of deep learning are the models. Some are general-purpose large language models (LLMs), while others are specialized for specific tasks like text generation, image creation, or coding.
 
@@ -105,12 +105,16 @@ If you're looking to explore beyond these, I recommend checking out the followin
 - [Roboflow Universe](https://universe.roboflow.com/)
 
 ## Articles, Blogs & Interviews
+
 - [John Carmack: Different path to AGI](https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) & [The Narrated Illustrated Transformer](https://www.youtube.com/watch?v=-QH8fRhqFHM&list=WL&index=2)
 - Deep Learning in a Nutshell [Part 1: Core Concepts](https://developer.nvidia.com/blog/deep-learning-nutshell-core-concepts/) | [Part 2:  History and Training](https://developer.nvidia.com/blog/deep-learning-nutshell-history-training/) | [Part 3: Sequence Learning](https://developer.nvidia.com/blog/deep-learning-nutshell-sequence-learning/) | [Part 4: Reinforcement Learning](https://developer.nvidia.com/blog/deep-learning-nutshell-reinforcement-learning/) | [Part 5: Reinforcement Learning](https://developer.nvidia.com/blog/deep-learning-nutshell-reinforcement-learning/)
 
 ## Papers
 <img src="./Illustrations/Characters/AI_Scientist.png" alt="AI Scientist" align="right" width="200px">
+
+At the core of most AI advances is research — deep, complex work published by people pushing the boundaries of what’s possible. These breakthroughs often appear in the form of academic papers.
+Reading papers can be overwhelming at first. It’s not always easy to unpack their meaning or follow the math. I suggest using tools like [NotebookLM](https://notebooklm.google.com/) or joining a local AI paper-reading club.
 
 - [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
 - [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/)
@@ -123,22 +127,30 @@ If you're looking to explore beyond these, I recommend checking out the followin
 - [Uncovering and Mitigating Algorithmic Bias through Learned Latent Structure](http://introtodeeplearning.com/AAAI_MitigatingAlgorithmicBias.pdf)
 
 ## Datasets
-- [Kaggle Datasets](https://www.kaggle.com/datasets/)
-- [CelebA](https://paperswithcode.com/dataset/celeba)
-- [COCO](https://cocodataset.org/#home)
-- [ImageNet](https://image-net.org/)
-- [Cityscapes Dataset](https://www.cityscapes-dataset.com/)
-- [ObjectNet](https://objectnet.dev/)
-- [LAION 5B](https://laion.ai/blog/laion-5b/)
-- [NAIRR Datasets](https://nairrpilot.org/pilotresources)
-- [UCI Machine Learning Datasets](https://archive.ics.uci.edu/datasets)
+<img src="./Illustrations/Characters/AI_Question.png" alt="AI Question" align="right" width="200px">
 
-## Ethics
-* [Ethics of AI](https://ethics-of-ai.mooc.fi/)
+The current approach to teaching machines relies heavily on data — often, massive amounts of it. In some cases, we use datasets that were created and labeled by humans. In others, we rely on synthetic data generated by machines, or a combination of both.
+This section includes some well-known datasets you can explore and use to train your models. Platforms like Hugging Face also host a wide range of datasets for different tasks and domains.
+
+| Name                                                                                                          | Domain                                      |
+|---------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| [Kaggle Datasets](https://www.kaggle.com/datasets/)                                                           | Various / General ML                        |
+| [CelebA](https://paperswithcode.com/dataset/celeba)                                                           | Computer Vision / Facial Attributes         |
+| [COCO](https://cocodataset.org/#home)                                                                         | Computer Vision / Object Detection          |
+| [ImageNet](https://image-net.org/)                                                                            | Computer Vision / Classification            |
+| [Cityscapes Dataset](https://www.cityscapes-dataset.com/)                                                     | Computer Vision / Segmentation              |
+| [ObjectNet](https://objectnet.dev/)                                                                           | Computer Vision / Robustness Testing        |
+| [LAION 5B](https://laion.ai/blog/laion-5b/)                                                                   | Multimodal / Vision-Language                |
+| [NAIRR Datasets](https://nairrpilot.org/pilotresources)                                                       | Various / Research Datasets                 |
+| [UCI Machine Learning Datasets](https://archive.ics.uci.edu/datasets)                                         | Traditional ML / Tabular                    |
+| [Common Crawl](https://commoncrawl.org/)                                                                      | NLP / Web-Scale Corpus                      |
+| [The Pile](https://pile.eleuther.ai/)                                                                         | NLP / Language Modeling                     |
+| [C4 (Colossal Clean Crawled Corpus)](https://www.tensorflow.org/datasets/community_catalog/huggingface/c4)    | NLP / Pretraining Corpus                    |
 
 ## Notes & Highlights
 - [Standard Notations for Deep Learning](https://cs230.stanford.edu/files/Notation.pdf)
-- [Historical data on 'notable' Models by Epoch](https://epoch.ai/data/notable-ai-models)
-
-## Reports
 - [AI Index Report | Stanford](https://hai.stanford.edu/research/ai-index-report)
+- [Historical data on 'notable' Models by Epoch](https://epoch.ai/data/notable-ai-models)
+- [Ethics of AI](https://ethics-of-ai.mooc.fi/)
+
+<img src="./Illustrations/Characters/AI_Sleeping.png" alt="AI Sleeping" align="left" width="200px">
