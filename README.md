@@ -1,17 +1,25 @@
 ![](./Illustrations/Banner.png)
 
-> ### Learning is like a road...  
-> One that forks every couple of meters, where you never really arrive anywhere. That’s the beauty of it.
-> 
-> When I was working in games, people would ask me, “How do I learn to make games?” My answer was always the same: “Build a game, and learn the things you need to build that game.” 
-> 
-> I don’t think you learn by absorbing everything up front, you learn by moving, making, and getting stuck. 
->
-> This repository contains the material I’ve used (and am still using) to learn AI. 
-> 
-> Do I know AI? Of course not, maybe I never will. But I’m having a wonderful time learning, building tools, talking about it, and figuring things out along the way.
->
-> I hope you find useful content in here, and if you have suggestions, please let me know!
+### TL;DR
+
+If you only have limited time to learn Artificial Intelligence, here’s what I recommend:
+
+- 📘 **Read this book**: [Deep Learning - A Visual Approach](https://www.glassner.com/portfolio/deep-learning-a-visual-approach/)  
+- 🎥 **Watch this video**: [Deep Dive into LLMs like ChatGPT](https://youtu.be/7xTGNNLPyMI?si=aUTq_qUzyUx36BsT)  
+- 🧠 **Follow this course**: [🤗 Agents Course](https://huggingface.co/learn/agents-course/)
+
+If you want more (and there’s a lot more) keep reading.
+
+## Why this repo exists
+Learning often feels like walking down a road that forks every few meters; you’re always exploring, never really arriving. And that’s the beauty of it.
+
+When I was working in games, people would ask me: “How do I learn to make games?” My answer was always: “Pick a game, and build it — learn the tools and concepts along the way.” I’ve taken the same approach with AI.
+
+This repository is a collection of the material I’ve used (and continue to use) to learn AI: books, courses, papers, tools, models, datasets, and notes. It’s not a curriculum, it’s more like a journal. One that’s helped me build, get stuck, and keep going.
+
+Do I know AI? Not really. But I’m learning, building, and having a great time doing it.
+
+I hope something in here is useful to you too. And if you have suggestions or feedback, I’d love to hear it.
 
 ## Books
 <img src="./Illustrations/Characters/NI_Cool.png" alt="NI Cool" align="right" width="200px">
@@ -45,7 +53,7 @@ If you prefer learning through videos or more interactive formats, I recommend t
 
 - [Getting Started with Deep Learning](https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-FX-01+V1) A short introduction to deep learning, delivered by NVIDIA. If you just want a quick glimpse of the very basics before jumping into higher-level implementation, this is a solid place to start.
 - [MIT Intro to Deep Learning](http://introtodeeplearning.com/) A free, intensive bootcamp taught by MIT researchers. Getting direct access to this content (updated every time they teach it) is amazing. (~10 hours of deep learning concepts, plus interesting guest lectures.)
-- [Practical Deep Learning for Coders](https://course.fast.ai/) This is the acompanying course version of the FastAI book by [Jeremy Howard](https://x.com/jeremyphoward).
+- [Practical Deep Learning for Coders](https://course.fast.ai/) This is the accompanying course version of the FastAI book by [Jeremy Howard](https://x.com/jeremyphoward).
 - [C++ Neural Network in a Weekend](https://www.jeremyong.com/cpp/machine-learning/2020/10/23/cpp-neural-network-in-a-weekend/) This might be too much if you’re just starting out, or if you’re not interested in low-level C++ implementations of neural networks. But I found it fascinating, and it made me appreciate how far modern frameworks and APIs have come.
 - [🤗 Agents Course](https://huggingface.co/learn/agents-course/) Now that agentic AI is trending, Hugging Face launched this free course showcasing their `smolagents` framework. It also covers LlamaIndex and LangGraph. 
 
