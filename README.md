@@ -13,7 +13,7 @@ If you want more (and there’s a lot more) keep reading.
 ## Why this repo exists
 Learning often feels like walking down a road that forks every few meters; you’re always exploring, never really arriving. And that’s the beauty of it.
 
-When I was working in games, people would ask me: “How do I learn to make games?” My answer was always: “Pick a game, and build it — learn the tools and concepts along the way.” I’ve taken the same approach with AI.
+When I was working in games, people would ask me: “How do I learn to make games?” My answer was always: “Pick a game, and build it, learn the tools and concepts along the way.” I’ve taken the same approach with AI.
 
 This repository is a collection of the material I’ve used (and continue to use) to learn AI: books, courses, papers, tools, models, datasets, and notes. It’s not a curriculum, it’s more like a journal. One that’s helped me build, get stuck, and keep going.
 
@@ -123,6 +123,7 @@ If you're looking to explore beyond these, I recommend checking out the followin
 At the core of most AI advances is research — deep, complex work published by people pushing the boundaries of what’s possible. These breakthroughs often appear in the form of academic papers.
 Reading papers can be overwhelming at first. It’s not always easy to unpack their meaning or follow the math. I suggest using tools like [NotebookLM](https://notebooklm.google.com/) or joining a local AI paper-reading club.
 
+- [Agentic Reasoning and Tool Integration for LLMs via Reinforcement Learning](https://www.arxiv.org/abs/2505.01441)
 - [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
 - [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/)
 - [GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images](https://nv-tlabs.github.io/GET3D/)
