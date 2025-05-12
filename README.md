@@ -125,6 +125,7 @@ Reading papers can be overwhelming at first. It’s not always easy to unpack th
 
 - [Agentic Reasoning and Tool Integration for LLMs via Reinforcement Learning](https://www.arxiv.org/abs/2505.01441)
 - [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
+- [PrimitiveAnything](https://huggingface.co/spaces/hyz317/PrimitiveAnything)
 - [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/)
 - [GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images](https://nv-tlabs.github.io/GET3D/)
 - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)
